@@ -1,0 +1,5 @@
+[2018-11-13 16:34:04] -- [WARN ]: [com.example.jwt.security.JwtAuthorizationTokenFilter] -- couldn't find bearer string, will ignore the header
+[2018-11-13 16:34:05] -- [WARN ]: [com.example.jwt.security.JwtAuthorizationTokenFilter] -- couldn't find bearer string, will ignore the header
+[2018-11-13 16:34:27] -- [WARN ]: [com.example.jwt.security.JwtAuthorizationTokenFilter] -- couldn't find bearer string, will ignore the header
+[2018-11-13 16:34:33] -- [WARN ]: [com.example.jwt.security.JwtAuthorizationTokenFilter] -- couldn't find bearer string, will ignore the header
+[2018-11-13 19:15:44] -- [WARN ]: [com.zaxxer.hikari.pool.HikariPool] -- HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h49m18s780ms496µs995ns).
